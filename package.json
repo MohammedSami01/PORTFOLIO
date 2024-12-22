@@ -1,0 +1,19 @@
+{
+  "name": "mohammed-sami-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Mohammed Sami, Full Stack Developer",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "mohammed-sami-portfolio": "file:",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.0",
+    "vite": "^4.3.0"
+  }
+}
